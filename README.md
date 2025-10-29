@@ -1,8 +1,7 @@
-<H3> NAME</H3> MUGL MURUGAN 
-<H3>REGISTER NO.</H3> 212223230127
-<H3>EX. NO.5</H3>
-<H3>DATE:</H3> 29/10/2025
+
 <H1 ALIGN =CENTER>Implementation of XOR  using RBF</H1>
+<H3>EX. NO.5</H3>
+<H3>DATE:29/10/2025</H3> 
 <H3>Aim:</H3>
 To implement a XOR gate classification using Radial Basis Function  Neural Network.
 
